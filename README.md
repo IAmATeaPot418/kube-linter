@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/IAmATeaPot418/kube-linter/images/logo/KubeLinter-horizontal.svg" width="360"></p>
+<p align="center"><img src="https://github.com/IAmATeaPot418/kube-linter/blob/master/images/logo/KubeLinter-horizontal.svg" width="360"></p>
 
 # KubeLinter
 
