@@ -1,4 +1,5 @@
 <p align="center"><img src="https://github.com/IAmATeaPot418/kube-linter/blob/master/images/logo/KubeLinter-horizontal.svg" width="360"></p>
+<p align="center"><b>Static analysis for Kubernetes.</b></p>
 
 # KubeLinter
 
