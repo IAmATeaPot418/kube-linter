@@ -1,3 +1,4 @@
+<p align="center"><img src="https://raw.githubusercontent.com/stackrox/kube-linter/master/images/logo/KubeLinter-horizontal.svg" width="360"></p>
 
 # Documentation
 
